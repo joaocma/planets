@@ -3,4 +3,5 @@
 3 - init folder on git
 4 - add files
 5 - commit files (-m to add comments)
-
+6 - check status and find whether something must be done
+7 - use git diff to see whats different
