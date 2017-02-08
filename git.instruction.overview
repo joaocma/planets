@@ -5,3 +5,5 @@
 5 - commit files (-m to add comments)
 6 - check status and find whether something must be done
 7 - use git diff to see whats different
+8 - When you "add" a file on git it is not yet commited, it is on a staging area
+9 - to see that, you must use git diff --staged. git diff will not show
